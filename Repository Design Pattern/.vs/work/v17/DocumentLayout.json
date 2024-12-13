@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\repositries\\user\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\repositries\\user\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\services\\user\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\services\\user\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\repositries\\user\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\repositries\\user\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\services\\user\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\services\\user\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\work.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\work.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\utilities\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\utilities\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\dbconext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\dbconext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\work.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\work.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|c:\\users\\sami\\desktop\\repository design pattern\\work\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF009BF-1874-4D2C-A3B0-08515107F484}|work\\work.csproj|solutionrelative:work\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sami\\Desktop\\work\\work\\Models\\Repositries\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sami\\Desktop\\work\\work\\Models\\Repositries\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Program.cs",
+              "RelativeDocumentMoniker": "work\\Program.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Program.cs",
+              "RelativeToolTip": "work\\Program.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAswGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:10:48.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Repositries\\User\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "work\\Repositries\\User\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Repositries\\User\\EmployeeRepository.cs",
+              "RelativeToolTip": "work\\Repositries\\User\\EmployeeRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAswEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:35:12.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Repositries\\User\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "work\\Repositries\\User\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Repositries\\User\\IEmployeeRepository.cs",
+              "RelativeToolTip": "work\\Repositries\\User\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:35:10.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "work.csproj",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\work.csproj",
+              "RelativeDocumentMoniker": "work\\work.csproj",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\work.csproj",
+              "RelativeToolTip": "work\\work.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T09:44:10.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "work\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "work\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAwwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:31:02.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Utilities\\AuthServices.cs",
+              "RelativeDocumentMoniker": "work\\Utilities\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Utilities\\AuthServices.cs",
+              "RelativeToolTip": "work\\Utilities\\AuthServices.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:07:18.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\appsettings.json",
+              "RelativeDocumentMoniker": "work\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\appsettings.json",
+              "RelativeToolTip": "work\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T14:44:49.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Services\\User\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "work\\Services\\User\\EmployeeServices.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Services\\User\\EmployeeServices.cs",
+              "RelativeToolTip": "work\\Services\\User\\EmployeeServices.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwCIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:35:28.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "work\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Models\\Register.cs",
+              "RelativeToolTip": "work\\Models\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:11:13.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Dtos\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "work\\Dtos\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Dtos\\EmployeeDto.cs",
+              "RelativeToolTip": "work\\Dtos\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:15:18.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeServices.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Services\\User\\IEmployeeServices.cs",
+              "RelativeDocumentMoniker": "work\\Services\\User\\IEmployeeServices.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Services\\User\\IEmployeeServices.cs",
+              "RelativeToolTip": "work\\Services\\User\\IEmployeeServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:38:37.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "work\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\Models\\Employee.cs",
+              "RelativeToolTip": "work\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:07:57.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\DbConext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "work\\DbConext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\DbConext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "work\\DbConext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:55:55.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "work",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\work.csproj",
+              "RelativeDocumentMoniker": "work\\work.csproj",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\work.csproj",
+              "RelativeToolTip": "work\\work.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T17:45:15.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "work\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\Repository Design Pattern\\work\\WeatherForecast.cs",
+              "RelativeToolTip": "work\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:56:29.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\work\\work\\Models\\Repositries\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\work\\work\\Models\\Repositries\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\work\\work\\Models\\Repositries\\IUserRepository.cs",
+              "RelativeToolTip": "..\\work\\work\\Models\\Repositries\\IUserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:50:45.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sami\\Desktop\\work\\work\\Models\\Repositries\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\work\\work\\Models\\Repositries\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Sami\\Desktop\\work\\work\\Models\\Repositries\\UserRepository.cs",
+              "RelativeToolTip": "..\\work\\work\\Models\\Repositries\\UserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:51:05.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
